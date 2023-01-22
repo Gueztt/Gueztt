@@ -1,6 +1,6 @@
 ### Hi there, I'm Gueztt👋
 
-![Gueztt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gueztt&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)
+![Gueztt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gueztt&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000&include_all_commits=true)
 
 <!--
 **Gueztt/Gueztt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
